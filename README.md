@@ -1,12 +1,12 @@
 # Classification-models-Logistic-regression-SVM-and-neural-network
 
-# Excercise 7
+# Example 7
 A SCITOS G5 robot was remote controlled along a wall while the readings of its 24 ultrasonic sensors were recorded. By using this data, build an AI model which can independently drive the robot along a wall. Separate 25 % of the data into a test dataset to validate the accuracy of your model. Use the logistic regression model as your machine learning algorithm.
-# Exercise 8
+# Example 8
 Repeat the previous exercise but use the Support Vector Machine as your machine learning algorithm. Report the accuracy of your model in test data, and also print the predicted and the actual control command for 20 random rows from the test data.
-# Exercise 9
+# Example 9
 Repeat the previous exercise but use the Neural Network as your machine learning algorithm. Report the accuracy of your model in test data, and also print the predicted and the actual control command for 20 random rows from the test data.
-# Exercise 10
+# Example 10
 Use the dataset heart.csv to build neural network, which predicts if the patient has an increased chance of heart attack (variable Output in heart.csv). Separate 25 % of the data into a test data. Report the accuracy of your model in both train and test datasets.
 Explanation of the variables (treat “cp” as a categorical variable):
 
